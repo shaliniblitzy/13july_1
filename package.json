@@ -1,13 +1,13 @@
 {
   "name": "13july_1",
   "version": "1.0.0",
-  "description": "A tutorial Node.js HTTP server built on Express exposing GET / -> \"Hello world\" and GET /good-evening -> \"Good evening\".",
+  "description": "Minimal Node.js HTTP server built with Express.js exposing two GET endpoints.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
+  "license": "ISC",
   "dependencies": {
     "express": "^5.2.1"
-  },
-  "license": "ISC"
+  }
 }
